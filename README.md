@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# Burp Suite
 
-You can use the [editor on GitHub](https://github.com/besteelverdi/Burp-Suite-Proxy/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Burp veya Burp Suite, web uygulamalarının sızma testi için kullanılan bir dizi araçtır. İnternet tarayıcıları GET ve POST isteklerini ve daha bir çok şeyi görsel hale getirir. HTML ve Javascripti çalıştırır. Arka planda olan şeyleri görmek istiyorsak Burp Suite aracını kullanabiliriz. Aşağıda bulunan linkten Burp Suite'i indirebilirsiniz.
+https://portswigger.net/burp/releases/professional-community-2020-11-1?requestededition=community
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Burp Suite'i kurduktan sonra, Proxy olarak kullanmak için çalışır olduğunu denetlemek gerekmektedir. 
+![image](https://user-images.githubusercontent.com/70814577/112728738-bd7e2200-8f39-11eb-9270-47aa39d5e17b.png)
+
 
 ### Markdown
 
