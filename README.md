@@ -13,7 +13,7 @@ Bağlanmak istediğiniz siteler SSL sertifikasına sahip ise Burp Suite ile bu s
 http://burp adresine giderek  CA Certificate yazısına tıklayınız ve dosyayı kaydediniz.
 ![image](https://user-images.githubusercontent.com/70814577/112729169-dee00d80-8f3b-11eb-8122-5195122032c7.png)
 
-İndirdiğiniz sertifikayı tarayıcınıza aktarmanız gerekmektedir. Seçenekler > Gizlilik ve Güvenlik > Sertifikalar > Sertifikaları Görüntüle'ye giderek içe aktara tıklayınız ve indirdiğiniz sertifikayı seçiniz. Çıkan pencerede sertifikaya güvendiğinize dair seçenekleri işaretleyiniz.
+İndirdiğiniz sertifikayı tarayıcınıza aktarmanız gerekmektedir. Seçenekler > Gizlilik ve Güvenlik > Sertifikalar > Sertifikaları Görüntüle'ye giderek içe aktara tıklayınız ve indirdiğiniz sertifikayı seçiniz. Çıkan pencerede sertifikaya güvendiğinize dair seçenekleri işaretleyiniz. Burp Suite'i tarayıcınızda proxy olarak kullanabilirsiniz.
 ![image](https://user-images.githubusercontent.com/70814577/112729284-72194300-8f3c-11eb-802c-9debcddab0d4.png)
 
 
